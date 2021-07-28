@@ -12673,4 +12673,15 @@
         <Description>Auto Splitting available. (By DevilSquirrel)</Description>
         <Website>https://github.com/ShootMe/LiveSplit.CrankedUp</Website>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Harry Potter 6</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/xLink/hp6-autosplitter/main/hp6_autosplitter.asl</URL>
+	</URLs>	
+	<Type>Script</Type>
+	<Description>AutoStart and AutoSplit to be used with set splits found at SRDC resources for this game</Description>
+	<Website>https://github.com/xLink/hp6-autosplitter</Website>
+     </AutoSplitter>
 </AutoSplitters>
